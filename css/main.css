@@ -1,0 +1,60 @@
+p::first-letter{
+	font-size: 30px
+}
+h2 em{
+	font-family: sans-serif;
+	color: #cb2821;
+	}
+#pre1{
+	font-weight: 100;
+	color: #522052;
+	font-style: italic;
+}
+#pre2{
+	font-weight:400;
+	font-size: small;
+	color:#522051;
+}
+#pre3{
+	font-weight: 900;
+	font-size: 14px;
+	color:#522050;
+}
+#ul1{font-size:larger}
+#ul2{font-size:smaller}
+#p1{
+	text-decoration: green wavy underline;/*подчеркивание*/
+	text-align: start;/*горизонтальное выравнивание*/
+}
+#p2{
+	text-decoration: underline green;/*подчеркивание*/
+}
+#p3{
+	text-decoration: underline overline #FF3028;/*подчеркивание*/
+}
+#p4{
+	text-transform: uppercase;/*изменение регистра символов*/
+	line-height: 32px;/*высота строки*/
+}
+img{vertical-align:sub}
+#p5{
+	word-spacing: -.4ch;
+	text-indent: 40px;
+}
+#p6{
+	letter-spacing: .2rem;
+	text-shadow: 5px 5px #558ABB;
+}
+a:link{text-decoration:none}
+a:visited{
+	color:#A5260A;
+	text-decoration:text-decoration: none;
+}
+a:active{
+	text-decoration:none;
+	color:#1CD3A2;
+}
+a:hover{
+	text-decoration:text-decoration: none;
+	color:#1DACD6;
+}
